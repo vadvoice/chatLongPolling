@@ -16,4 +16,4 @@ or
 ```
 
 Try to send message
-:rocket:
+:rocket: :octocat:
