@@ -1,0 +1,11 @@
+{
+  "name": "chatLongPolling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/willfulAversion/chatLongPolling.git",
+  "author": "vadym <vadym.shevchenko@scoutgaminggroup.com>",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node server.js"
+  }
+}
